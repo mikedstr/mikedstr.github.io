@@ -90,7 +90,7 @@ h3{
 nav{
     height: 3vh;
     width: 100%;
-    margin-bottom: 20vh;
+    margin-bottom: 10vh;
 }
 label.logo{
     font-size: 35px;
@@ -177,7 +177,7 @@ a:hover{
 /* <===================HOME===================> */
 
 .container-out{
-    margin-top: 10vh;
+    margin-top: 6vh;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
